@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+
+<Placemark>
+<name>Oviedo</name>
+<description>Ciudad de Oviedo, capital de Asturias</description>
+<Point>
+<coordinates>-3.861070,40.323657,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>Oviedo</name>
+<description>Ciudad de Oviedo, capital de Asturias</description>
+<Point>
+<coordinates>-3.865604,40.319139,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>Oviedo</name>
+<description>Ciudad de Oviedo, capital de Asturias</description>
+<Point>
+<coordinates>40.312998,-3.851755,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>Oviedo</name>
+<description>Ciudad de Oviedo, capital de Asturias</description>
+<Point>
+<coordinates>40.300281,-3.846053,0</coordinates>
+</Point>
+</Placemark>
+</kml>
